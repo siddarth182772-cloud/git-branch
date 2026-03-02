@@ -3,8 +3,8 @@ let port = 3000;
 let host = "localhost";
 
 // Sample Numbers
-let a = 20;
-let b = 10;
+let a = 60;
+let b = 50;
 
 // Arithmetic Operations
 console.log("Server running on " + host + ":" + port);
