@@ -1,5 +1,4 @@
-// Server Configuration
-let port = 80;
+let port = 443;
 let host = "localhost";
 
 // Sample Numbers
@@ -29,3 +28,4 @@ a++;
 b--;
 console.log("Incremented a: " + a);
 console.log("Decremented b: " + b);
+console.log("All is well......");
