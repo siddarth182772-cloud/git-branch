@@ -1,5 +1,5 @@
 // Server Configuration
-let port = 3000;
+let port = 443;
 let host = "localhost";
 
 // Sample Numbers
