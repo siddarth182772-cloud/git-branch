@@ -1,5 +1,5 @@
 // Server Configuration
-let port = 3020;
+let port = 80;
 let host = "localhost";
 
 // Sample Numbers
